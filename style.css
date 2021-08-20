@@ -1,0 +1,24 @@
+:root {
+  --span-color: #587B7F;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  background-color: #E8FCCF;
+}
+
+.span {
+  color: var(--span-color);
+}
+
+.title-about {
+  color: #1E2019;
+  font-size: 1.8rem
+}
+
+.text-about {
+  color: #394032;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
